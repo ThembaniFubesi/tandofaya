@@ -1,6 +1,6 @@
 <template>
   <div class="ion-page">
-    <h1>Thembani Fubesi</h1>
+    <h1>Thembani Fubesi, Bhele</h1>
     <ion-content class="ion-padding">
       <h1>
         <ion-text color="dark">#1 leading stress converter</ion-text>
